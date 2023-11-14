@@ -5,4 +5,4 @@
 
 ### Архитектура
 
-- [Минимальная](https://www.dropbox.com/scl/fi/y9gvs57ydbkt2icvlgmav/V1.pdf?rlkey=dng3qsn
+- [Минимальная](https://www.dropbox.com/scl/fi/y9gvs57ydbkt2icvlgmav/V1.pdf?rlkey=dng3qsn)
